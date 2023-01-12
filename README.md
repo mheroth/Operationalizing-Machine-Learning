@@ -26,7 +26,7 @@ Screenshot showing that the experiment is shown as completed:
 #### Selecting best model
 After the experiment is completed, the best model summary shows the best performing model in terms of accuracy.
 Screenshot showing best model after experiment is completed:
-![image](./img/image.png)
+![image](./img/model_summary.PNG)
 
 ### 3. Deploy the best model
 After the experiment run completes, the best model will be selected for deployment. The best model will then be available through HTTP API service by sending data over POST requests.
