@@ -21,6 +21,7 @@ Screenshot of the registered dataset in ML studio that Bankmarketing dataset ava
 #### Create a new Auto ML experiment 
 We create a new Auto ML experiment, name it automl_experiment-bankmarketing, specify y as the target column and create a new compute cluster using Standar_DS3_v2 machine (minimum number of nodes = 1). In the Configure run section we selected task type to Classification, checked the Explain best model option, set on Exit criterion, set Training job time to 1 hour and on Concurency set Max. concurent iteration to 5.
 Screenshot showing that the experiment is shown as completed:
+![image](./img/completed_experiment.PNG)
 
 #### Selecting best model
 After the experiment is completed, the best model summary shows the best performing model in terms of accuracy.
