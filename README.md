@@ -78,3 +78,5 @@ compute_instance
 service.update(enable_app_insights=True)
 
 logs = service.get_logs()
+
+git
