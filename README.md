@@ -16,7 +16,7 @@ In this step, We will create an experiment using Automated ML, configure a compu
 
 #### Select and upload the Bankmarketing dataset
 Screenshot of the registered dataset in ML studio that Bankmarketing dataset available:
-![image](./img/dataset.png)
+![image](./img/dataset.PNG)
 
 #### Create a new Auto ML experiment 
 We create a new Auto ML experiment, name it automl_experiment-bankmarketing, specify y as the target column and create a new compute cluster using Standar_DS12_v2 machine (minimum number of nodes = 1). In the Configure run section we selected task type to Classification, checked the Explain best model option, set on Exit criterion, set Training job time to 1 hour and on Concurency set Max. concurent iteration to 5.
