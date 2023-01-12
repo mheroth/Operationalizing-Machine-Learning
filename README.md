@@ -71,3 +71,5 @@ Future improvements:
 automl-experiment-bank-marketing
 yes
 compute_instance
+
+"automl-bestmodel"
