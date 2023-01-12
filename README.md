@@ -1,12 +1,9 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
 # Operationalizing Machine Learning
 In this project, we will continue the work with the Bank Marketing dataset. We will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. We will also create, publish, and consume a pipeline.
 
 ## Architectural Diagram
 The figure below shows steps that will be implemented in this project:
-![image](./overview_project2.PNG)
+![image](./overview_project2.png)
 
 ## Key Steps
 1. Authentication
