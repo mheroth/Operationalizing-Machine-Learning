@@ -59,3 +59,7 @@ Future improvements:
 - use deep learning
 - create web app for better interaction
 - imbalanced data: use random under-sampling of majority class or random over-sampling of minority class
+
+
+
+automl-experiment-bank-marketing
