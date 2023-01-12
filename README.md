@@ -52,6 +52,12 @@ Now it's time to interact with the deployed model and to test it, we use the end
 ### 7. Create and publish a pipeline
 In this second part of the project, we use the Jupyter Notebook provided: aml-pipelines-with-automated-machine-learning-step.ipynb. The notebook is updated so as to have the same dataset, keys, URI, cluster, and model names that we created in the first part.
 The purpose of this step is to create, publish and consume a pipeline using the Azure Python SDK. We can see below the relevant screenshots:
+ ![image](./img/pipeline_created2.PNG)
+ ![image](./img/bankmarketing_dataset_with_automl_module.PNG)
+ ![image](./img/published_pipeline_showing_a_rest_endpoint.PNG)
+ ![image](./img/shows run details widget.PNG)
+  ![image](./img/showing_sheduled_run.PNG)
+
 
 ## Screen Recording / Documentation
 he screen recording can be found ### here and it shows the project in action. More specifically, the screencast demonstrates:
