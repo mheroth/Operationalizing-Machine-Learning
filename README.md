@@ -59,7 +59,7 @@ The purpose of this step is to create, publish and consume a pipeline using the 
 
 
 ## Screen Recording / Documentation
-The screen recording can be found in the zip files and it shows the project in action. More specifically, the screencast demonstrates:
+The screen recording can be found in the zip files (screencast1.zip and screencast2.zip) since I have no youtube account. It shows the project in action. More specifically, the screencast demonstrates:
 
 - The working deployed ML model endpoint
 - The deployed Pipeline
