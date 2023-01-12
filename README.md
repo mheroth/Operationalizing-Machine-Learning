@@ -6,7 +6,7 @@ The figure below shows steps that will be implemented in this project:
 ![image](./img/overview_project2.png)
 
 ## Key Steps
-1. Authentication
+### 1. Authentication
 Authentication means, we need to install the Azure Machine Learning Extension which allows us to interact with Azure Machine Learning Studio (part of the az command). After having the Azure machine Learning Extension, we create a Service Principal account and associate it with specific workspace.
 
 Note: I am using provided project lab with authentication done, so I skiped this step.
