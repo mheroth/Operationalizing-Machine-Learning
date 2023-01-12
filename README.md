@@ -3,7 +3,7 @@ In this project, we will continue the work with the Bank Marketing dataset. We w
 
 ## Architectural Diagram
 The figure below shows steps that will be implemented in this project:
-![image](./overview_project2.png)
+![image](./img/overview_project2.png)
 
 ## Key Steps
 1. Authentication
