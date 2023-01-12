@@ -34,6 +34,11 @@ After the experiment run completes, the best model will be selected for deployme
 ### 4. Enable logging
 Now that the Best Model is deployed, enable Application Insights and retrieve logs. Although this is configurable at deploy time with a check-box, it is useful to be able to run code that will enable it for you.
 
+ Screenshot showing that "Application Insights" is enabled in the Details tab of the Endpoint:
+ ![image](./img/image.PNG)
+ Screenshot showing logs by running the provided logs.py script
+ ![image](./img/image.PNG)
+
 ### 5. Swagger Documentation
 Swagger is an Interface Description Language for describing RESTful APIs expressed using JSON. Swagger is used together with a set of open-source software tools to design, build, document, and use RESTful web services.
 In order to cosume the deployed model using Swagger, Azure provides a Swagger JSON file for deployed models. We can find and download it from the Endpoints section under the deployed model.
