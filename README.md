@@ -26,7 +26,7 @@ Screenshot showing that the experiment is shown as completed:
 #### Selecting best model
 After the experiment is completed, the best model summary shows the best performing model in terms of accuracy.
 Screenshot showing best model after experiment is completed:
-![image](./img/application_insight_true.PNG)
+![image](./img/model_summary.PNG)
 
 ### 3. Deploy the best model
 After the experiment run completes, the best model will be selected for deployment. The best model will then be available through HTTP API service by sending data over POST requests.
@@ -35,7 +35,7 @@ After the experiment run completes, the best model will be selected for deployme
 Now that the Best Model is deployed, enable Application Insights and retrieve logs. Although this is configurable at deploy time with a check-box, it is useful to be able to run code that will enable it for you.
 
  Screenshot showing that "Application Insights" is enabled in the Details tab of the Endpoint:
- ![image](./img/model_summary.PNG)
+ ![image](./img/application_insight_true.PNG)
  Screenshot showing logs by running the provided logs.py script
  ![image](./img/logs1.PNG)
 
