@@ -59,7 +59,7 @@ The purpose of this step is to create, publish and consume a pipeline using the 
 
 
 ## Screen Recording / Documentation
-he screen recording can be found ### here and it shows the project in action. More specifically, the screencast demonstrates:
+The screen recording can be found in the zip files and it shows the project in action. More specifically, the screencast demonstrates:
 
 - The working deployed ML model endpoint
 - The deployed Pipeline
@@ -73,22 +73,3 @@ Future improvements:
 - use deep learning
 - create web app for better interaction
 - imbalanced data: use random under-sampling of majority class or random over-sampling of minority class
-
-
-
-automl-experiment-bank-marketing
-yes
-compute_instance
-
-"automl-bestmodel"
-
-
-service.update(enable_app_insights=True)
-
-logs = service.get_logs()
-
-git
-
-ls
-
-python logs.py
