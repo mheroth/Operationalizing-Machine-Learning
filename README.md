@@ -82,3 +82,5 @@ logs = service.get_logs()
 git
 
 ls
+
+python logs.py
