@@ -55,8 +55,7 @@ The purpose of this step is to create, publish and consume a pipeline using the 
  ![image](./img/pipeline_created2.PNG)
  ![image](./img/bankmarketing_dataset_with_automl_module.PNG)
  ![image](./img/published_pipeline_showing_a_rest_endpoint.PNG)
- ![image](./img/shows run details widget.PNG)
-  ![image](./img/showing_sheduled_run.PNG)
+ ![image](./img/showing_sheduled_run.PNG)
 
 
 ## Screen Recording / Documentation
