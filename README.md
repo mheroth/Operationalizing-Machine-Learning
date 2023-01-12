@@ -11,7 +11,7 @@ Authentication means, we need to install the Azure Machine Learning Extension wh
 
 Note: I am using provided project lab with authentication done, so I skiped this step.
 
-2. Automated ML Experiment
+### 2. Automated ML Experiment
 In this step, We will create an experiment using Automated ML, configure a compute cluster, and use that cluster to run the experiment. We need to upload the dataset to Azure Machine Learning Studio so that it can be used when training the model.
 - Select and upload the Bankmarketing dataset
 Screenshot of the registered dataset in ML studio that Bankmarketing dataset available:
@@ -25,17 +25,17 @@ Screenshot showing that the experiment is shown as completed:
 After the experiment is completed, the best model summary shows the best performing model in terms of accuracy.
 Screenshot showing best model after experiment is completed:
 
-3. Deploy the best model
+### 3. Deploy the best model
 
-4. Enable logging
+### 4. Enable logging
 
-5. Swagger Documentation
+### 5. Swagger Documentation
 
-6. Consume model endpoints
+### 6. Consume model endpoints
 
-7. Create and publish a pipeline
+### 7. Create and publish a pipeline
 
-8. Documentation
+### 8. Documentation
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
