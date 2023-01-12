@@ -42,6 +42,9 @@ Now that the Best Model is deployed, enable Application Insights and retrieve lo
 ### 5. Swagger Documentation
 Swagger is an Interface Description Language for describing RESTful APIs expressed using JSON. Swagger is used together with a set of open-source software tools to design, build, document, and use RESTful web services.
 In order to cosume the deployed model using Swagger, Azure provides a Swagger JSON file for deployed models. We can find and download it from the Endpoints section under the deployed model.
+ ![image](./img/swagger_get.PNG)
+ ![image](./img/swagger_post.PNG)
+ ![image](./img/swagger_response.PNG)
 
 ### 6. Consume model endpoints
 Now it's time to interact with the deployed model and to test it, we use the endpoint.py script to call the trained model and feeding it with some test data. Before we run the script, we need to modify both the scoring_uri and the key to match the key for our service and the URI that was generated after deployment. This URI can be found in the Details tab, above the Swagger URI.
