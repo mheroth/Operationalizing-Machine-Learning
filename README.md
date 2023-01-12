@@ -14,7 +14,7 @@ Note: I am using provided project lab with authentication done, so I skiped this
 ### 2. Automated ML Experiment
 In this step, We will create an experiment using Automated ML, configure a compute cluster, and use that cluster to run the experiment. We need to upload the dataset to Azure Machine Learning Studio so that it can be used when training the model.
 
-####Select and upload the Bankmarketing dataset
+#### Select and upload the Bankmarketing dataset
 Screenshot of the registered dataset in ML studio that Bankmarketing dataset available:
 ![image](./img/image.png)
 
